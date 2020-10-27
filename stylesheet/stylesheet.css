@@ -247,3 +247,19 @@ footer p {
     color: #f4c20d;
     cursor: pointer;
 }
+
+.link>a{
+    font-size: 16px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.link {
+    border-radius: 20px;
+    padding: 3%;
+    margin:auto;
+    display:block;
+    margin-bottom: 5%;
+    border-color: white;
+}
