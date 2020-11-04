@@ -184,6 +184,14 @@ header img {
     margin: 0 auto;
     display: flex;
 }
+.check-container>i{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 22px 0 22px 0;
+    color: green;
+    font-size: x-large;
+}
 .check {
     display: block;
     width: 30%;
